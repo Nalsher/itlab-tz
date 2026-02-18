@@ -9,7 +9,7 @@ cd <project-dir>
 
 2. Создайте env файли по примеру .env.exmaple и заполните его данными
 ```
-cp .env .env.example
+cp .env.example .env 
 ```
 
 3. Поднимите контейнеры
